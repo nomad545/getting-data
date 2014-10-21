@@ -1,12 +1,6 @@
 ========================================================
-
 Getting and Cleaning Data course project
-
-README file
-
-Christopher Claassen
-chrisclaassen.com
-
+Christopher Claassen (chrisclaassen.com)
 ========================================================
 
 
